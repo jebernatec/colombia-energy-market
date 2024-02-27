@@ -1,32 +1,19 @@
-# Colombia Energy market 
+<h1 align="center" style="font-size: 24px; color: green;">Colombia Energy Market</h1>
 
-## Introduction
+### Introduction
 
-Colombia Energy Market Analysis
-
-## Getting Started
-
-The steps to run the application
-
-### Preconditions
-
-Python 3.10+
+Colombia Energy Market Analysis project using the XM API
 
 ### Clone the project
+1. clone the repository
 ``` Bash
 git clone https://github.com/jebernatec/energy_market.git
-
-### Run local
-
-1. Install dependencies
+```
+2. Install dependencies
 ``` Bash
 pip install -r requirements.txt
 ```
-
-2. Run jupyter
+3. Run jupyter
 ``` Bash
 jupyter notebook
 ```
-
-## Check it
-Open your browser at http://localhost:8888/tree
